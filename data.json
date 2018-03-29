@@ -1,0 +1,39 @@
+{
+  "basics":{
+    "photo":"profile.jpg",
+  "name":"pikkili harika",
+  "emailid":"harika.pikkili@gmail.com",
+  "pno":"9703325393"
+
+},
+"education":[
+  {
+    "course":"btech(cse)",
+    "college":["Ravindra College Of Engineering For Women","2019","73%"]
+  },
+{
+  "course":"Intermediate",
+  "college":[  "C.V Raman Junior College","2014","90.9%"]
+},
+{
+  "course":"ssc",
+  "college":["tagore high school","2008","93%"]
+
+}
+],
+
+  "skills":[
+  {
+    "name":"Operating Systems:",
+    "value":"Windows,Linux"
+  },
+  {
+  "name":"Programming Languages:",
+  "value":"C,C++,Java"
+},
+{
+  "name":"Web Development:",
+  "value":"HTML,Python"
+}
+]
+}
